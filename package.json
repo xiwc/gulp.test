@@ -1,11 +1,27 @@
 {
   "devDependencies": {
+    "browserify": "^10.2.6",
+    "del": "^1.2.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.1.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.2.2",
     "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-remember": "^0.3.0",
     "gulp-sourcemaps": "^1.5.2",
+    "gulp-strip-debug": "^1.0.2",
     "gulp-uglify": "^1.2.0",
-    "require-dir": "^0.3.0"
+    "gulp-util": "^3.0.6",
+    "lodash.assign": "^3.2.0",
+    "require-dir": "^0.3.0",
+    "stream-combiner2": "^1.0.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-paths": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.3"
   },
   "dependencies": {
     "del": "^1.2.0"
